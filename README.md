@@ -1,7 +1,7 @@
 # Ray Tracing with WebGL
+A ray tracer implemented in **WebGL** and **GLSL** as part of the UCL Computer Graphics coursework.
 
-A WebGL/GLSL ray tracer implementing geometric intersections, shadows, reflections, refractions, Fresnel effects, and Boolean geometry.
-
+The project progressively extends a basic ray tracer by implementing geometric intersections, lighting, recursive ray tracing, transparent materials and Constructive Solid Geometry (CSG)
 ---
 
 ## Features
@@ -104,6 +104,7 @@ ray-tracing-webgl/
 │   ├── reflection.png
 │   ├── refraction_fresnel.png
 │   └── boolean_geometry.png
+├── ray_tracing.uclcg
 ```
 
 ---
