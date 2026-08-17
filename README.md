@@ -2,6 +2,7 @@
 A ray tracer implemented in **WebGL** and **GLSL** as part of the UCL Computer Graphics coursework.
 
 The project progressively extends a basic ray tracer by implementing geometric intersections, lighting, recursive ray tracing, transparent materials and Constructive Solid Geometry (CSG)
+
 ---
 
 ## Features
